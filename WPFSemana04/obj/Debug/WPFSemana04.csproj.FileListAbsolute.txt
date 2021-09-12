@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\WPFSemana04\WPFSemana04\bin\Debug\WPFSemana04.exe.config
+C:\Users\Usuario\source\repos\WPFSemana04\WPFSemana04\bin\Debug\WPFSemana04.exe
+C:\Users\Usuario\source\repos\WPFSemana04\WPFSemana04\bin\Debug\WPFSemana04.pdb
+C:\Users\Usuario\source\repos\WPFSemana04\WPFSemana04\obj\Debug\WPFSemana04.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\WPFSemana04\WPFSemana04\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\source\repos\WPFSemana04\WPFSemana04\obj\Debug\App.g.cs
+C:\Users\Usuario\source\repos\WPFSemana04\WPFSemana04\obj\Debug\WPFSemana04_MarkupCompile.cache
+C:\Users\Usuario\source\repos\WPFSemana04\WPFSemana04\obj\Debug\WPFSemana04_MarkupCompile.lref
+C:\Users\Usuario\source\repos\WPFSemana04\WPFSemana04\obj\Debug\MainWindow.baml
+C:\Users\Usuario\source\repos\WPFSemana04\WPFSemana04\obj\Debug\WPFSemana04.g.resources
+C:\Users\Usuario\source\repos\WPFSemana04\WPFSemana04\obj\Debug\WPFSemana04.Properties.Resources.resources
+C:\Users\Usuario\source\repos\WPFSemana04\WPFSemana04\obj\Debug\WPFSemana04.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\WPFSemana04\WPFSemana04\obj\Debug\WPFSemana04.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\WPFSemana04\WPFSemana04\obj\Debug\WPFSemana04.exe
+C:\Users\Usuario\source\repos\WPFSemana04\WPFSemana04\obj\Debug\WPFSemana04.pdb
